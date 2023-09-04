@@ -3,11 +3,11 @@
     "pins": [
       {
         "package": "GSPlayer",
-        "repositoryURL": "https://github.com/wxxsw/GSPlayer.git",
+        "repositoryURL": "https://github.com/iworker/GSPlayer.git",
         "state": {
           "branch": null,
-          "revision": "706fc28fcc8e33607993903eca82d9f6c7c3f6d2",
-          "version": "0.2.27"
+          "revision": "a119d115fa51d7061ec026c359b832cc77e073ac",
+          "version": "0.2.27-selfplus"
         }
       }
     ]

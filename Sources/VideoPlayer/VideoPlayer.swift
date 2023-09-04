@@ -78,6 +78,11 @@ public extension VideoPlayer {
     static func cleanAllCache() {
         try? VideoCacheManager.cleanAllCache()
     }
+
+    /// Copies local file into cache.
+    static func cacheLocalFile(localURL: URL, remoteURL: URL) throws {
+        try VideoCacheManager.cacheLocalFile(localURL: localURL, remoteURL: remoteURL)
+    }
 }
 
 @available(iOS 13, *)
