@@ -13,7 +13,7 @@ let package = Package(
         ),
     ],
     dependencies: [
-      .package(url: "https://github.com/iworker/GSPlayer.git", from: "0.2.27-selfplus"),
+      .package(url: "https://github.com/iworker/GSPlayer.git", from: "0.2.28-selfplus"),
     ],
     targets: [
         .target(
